@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uwanaaa
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React,Java and Python
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently learning SQL,Java and Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me +2349022400557
 
