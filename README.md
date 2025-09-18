@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Uwanaaa
-- 👀 I’m interested in Machine Learning so I am learning Tensorflow
-- 🌱 I’m currently learning PostgresSQL,MongoDB,Javascript and Python
-- 💞️ I’m looking to collaborate on any project
+- 🌱 Building with C++, Javascript and Python
 - 📫 How to reach me uwanaudofia8@gmail.com
 
 <!---
